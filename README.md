@@ -9,19 +9,25 @@
 
 <br />
 
-## :open_file_folder:機能動作
+## :open_file_folder:アプリ画面
 
-|新規投稿|投稿一覧|
+|TOP|
 |---|---|
-|![Image from Gyazo]()|
+|![Image from Gyazo](https://user-images.githubusercontent.com/113000259/193582306-7f2594fb-a2d6-4468-9790-cebf2ef44970.png)|
+|---|---|
+|![Image from Gyazo](https://user-images.githubusercontent.com/113000259/193584112-5f5bd9dc-54ab-47ab-bd91-3dbe183e0f92.png)|
 
-|投稿詳細|マイページ詳細|
+|会員登録|
 |---|---|
-|![Image from Gyazo]()|
+|![Image from Gyazo](https://user-images.githubusercontent.com/113000259/193582710-56b85fc1-7da5-4313-b830-3e3e99fb77f2.png)|
 
-|検索画面|コメント画面|
+|マイページ|
 |---|---|
-|![Image from Gyazo]()|
+|![Image from Gyazo](https://user-images.githubusercontent.com/113000259/193583546-4d986541-00cd-4d81-b188-8726c895a295.png)|
+
+|管理画面|
+|---|---|
+|![Image from Gyazo](https://user-images.githubusercontent.com/113000259/193583664-00bbb5dc-d5e4-4794-8246-6e6348572b16.png)|
 
 <br />
 
