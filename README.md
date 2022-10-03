@@ -61,11 +61,6 @@
 
 <br />
 
-## :closed_book:ER図
-![Image from Gyazo]()
-
-<br />
-
 ## :bulb:今後の課題
 - AWSにデプロイする
 - お気に入り機能の導入
